@@ -106,7 +106,7 @@ main h1 {
 }
 
 main h2 {
-    font-family: Android;
+    font-family: var(--fonte-android);
     color: var(--cor3);
     font-size: 1.3em;
     font-weight: normal;
